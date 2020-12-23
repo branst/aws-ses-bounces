@@ -15,7 +15,7 @@ Go to SES and configure bounces notifications for a specific domain/address, set
 ### Replace parameters on the serverless conf file (serverless.yml)
 
 Replace {account-id} with your AWS Account ID, you can find it on the top right of the AWS Console.  
-Replace {queuename} with your previously create SQS Queue name.  
+Replace {queuename} with your previously created SQS Queue name.  
 
 ### Deploy
 
