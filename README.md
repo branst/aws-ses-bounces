@@ -2,7 +2,7 @@
 
 ### Prereqs
 
-Install NodeJS: [https://nodejs.org/en/download/]  
+Install NodeJS: https://nodejs.org/en/download/ 
 Install Serverless Framework: ``` npm install -g serverless ```  
 Install Serverless Extension: ``` npm i serverless-iam-roles-per-function ```  
 Configure AWS CLI credentials ``` aws configure ```  
